@@ -1,5 +1,5 @@
 # optimalDefensiveTerra
-Terminal application to determine the optimal defensive terra type for a pokemon. **(You have to have Java installed with it's Path setup correctly to run this, I can probably make something better and more user friendly but not rn its 2 AM)**
+Terminal application to determine the optimal defensive terra type for a pokemon typing. **(You have to have Java installed with it's Path setup correctly to run this, I can probably make something better and more user friendly but not rn its 2 AM)**
 
 run `javac OpDefT.java` in the main directory followed by: `java OpDefT Type1 Type2`
 
